@@ -2,7 +2,7 @@
   "name": "@jiku/ink-template",
   "version": "0.1.0",
   "private": true,
-  "description": "Open Terminal tab, click 'Add Terminal' and run yarn start. Uses esm and @babel-register for runtime transpilation of ES modules and React.",
+  "description": "Uses esm and @babel-register for runtime transpilation of ES modules and React.",
   "main": "index.js",
   "module": "src/index.js",
   "scripts": {
